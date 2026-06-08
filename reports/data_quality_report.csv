@@ -1,0 +1,15 @@
+Column,Missing Values,Data Type
+show_id,0,object
+type,0,object
+title,0,object
+director,0,object
+cast,0,object
+country,0,object
+date_added,0,datetime64[ns]
+release_year,0,int64
+rating,0,object
+duration,0,object
+listed_in,0,object
+description,0,object
+year_added,0,int32
+month_added,0,int32
